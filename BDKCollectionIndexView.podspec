@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'BDKCollectionIndexView'
-  s.version      = '1.0.2'
+  s.version      = '1.0.3'
   s.summary      = "Gives a UICollectionView the sectionIndexTitles scrub bar that a UITableView gets for almost free."
   s.homepage     = "https://github.com/kreeger/BDKCollectionIndexView"
   s.license      = { :type => 'MIT', :file => 'license.markdown' }
